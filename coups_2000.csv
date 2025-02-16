@@ -1,0 +1,63 @@
+country,COUNTA of coup_id,code
+Guinea-Bissau,10,GNB
+Cote d'Ivoire,5,CIV
+Mauritania,5,MRT
+Venezuela,5,VEN
+Burundi,4,BDI
+Chad,4,TCD
+Philippines,4,PHL
+Zimbabwe,4,ZWE
+Burkina Faso,3,BFA
+Central African Republic,3,CAF
+Democratic Republic of the Congo,3,COD
+Fiji,3,FJI
+Guinea,3,GIN
+Madagascar,3,MDG
+Sudan,3,SDN
+Ecuador,2,ECU
+Egypt,2,EGY
+Gambia,2,GMB
+Georgia,2,GEO
+Haiti,2,HTI
+Kyrgyzstan,2,KGZ
+Lesotho,2,LSO
+Libya,2,LBY
+Mali,2,MLI
+Nepal,2,NPL
+Niger,2,NER
+Thailand,2,THA
+Turkey,2,TUR
+Yemen,2,YEM
+Afghanistan,1,AFG
+Algeria,1,DZA
+Armenia,1,ARM
+Azerbaijan,1,AZE
+Bahrain,1,BHR
+Bangladesh,1,BGD
+Cambodia,1,KHM
+Comoros,1,COM
+Congo,1,COG
+East Timor,1,TLS
+Equatorial Guinea,1,GNQ
+Eritrea,1,ERI
+Ethiopia,1,ETH
+Gabon,1,GAB
+Honduras,1,HND
+Indonesia,1,IDN
+Laos,1,LAO
+Liberia,1,LBR
+Malawi,1,MWI
+Maldives,1,MDV
+Montenegro,1,MNE
+Myanmar,1,MMR
+Nigeria,1,NGA
+Oman,1,OMN
+Papua New Guinea,1,PNG
+Paraguay,1,PRY
+Peru,1,PER
+Sao Tome and Principe,1,STP
+South Sudan,1,SSD
+Togo,1,TGO
+Tunisia,1,TUN
+Turkmenistan,1,TKM
+Ukraine,1,UKR

@@ -1,0 +1,131 @@
+country,COUNTA of coup_id,code
+Afghanistan,11,AFG
+Albania,2,ALB
+Algeria,9,DZA
+Angola,2,AGO
+Argentina,24,ARG
+Armenia,1,ARM
+Azerbaijan,5,AZE
+Bahrain,1,BHR
+Bangladesh,9,BGD
+Benin,10,BEN
+Bolivia,37,BOL
+Brazil,7,BRA
+Bulgaria,1,BGR
+Burkina Faso,10,BFA
+Burundi,15,BDI
+Cambodia,7,KHM
+Cameroon,1,CMR
+Central African Republic,9,CAF
+Chad,14,TCD
+Chile,5,CHL
+China,4,CHN
+Colombia,5,COL
+Comoros,9,COM
+Congo,15,COG
+Costa Rica,5,CRI
+Cote d'Ivoire,7,CIV
+Cuba,8,CUB
+Cyprus,1,CYP
+Czechoslovakia,8,CZE
+Democratic Republic of the Congo,9,COD
+Djibouti,1,DJI
+Dominica,1,DMA
+Dominican Republic,9,DOM
+East Timor,1,TLS
+Ecuador,16,ECU
+Egypt,13,EGY
+El Salvador,8,SLV
+Equatorial Guinea,4,GNQ
+Eritrea,1,ERI
+Ethiopia,10,ETH
+Fiji,5,FJI
+Gabon,3,GAB
+Gambia,5,GMB
+Georgia,4,GEO
+German Democratic Republic,4,DEU
+Ghana,13,GHA
+Greece,6,GRC
+Grenada,4,GRD
+Guatemala,17,GTM
+Guinea,9,GIN
+Guinea-Bissau,13,GNB
+Guyana,1,GUY
+Haiti,24,HTI
+Honduras,10,HND
+Hungary,6,HUN
+Indonesia,7,IDN
+Iran,9,IRN
+Iraq,17,IRQ
+Italy,2,ITA
+Jamaica,1,JAM
+Jordan,4,JOR
+Kenya,1,KEN
+Kyrgyzstan,2,KGZ
+Laos,12,LAO
+Lebanon,3,LBN
+Lesotho,10,LSO
+Liberia,13,LBR
+Libya,8,LBY
+Luxembourg,1,LUX
+Madagascar,10,MDG
+Malawi,1,MWI
+Malaysia,3,MYS
+Maldives,4,MDV
+Mali,10,MLI
+Mauritania,12,MRT
+Mexico,1,MEX
+Mongolia,2,MNG
+Montenegro,1,MNE
+Morocco,3,MAR
+Mozambique,2,MOZ
+Myanmar,7,MMR
+Nepal,3,NPL
+Nicaragua,6,NIC
+Niger,9,NER
+Nigeria,15,NGA
+Oman,2,OMN
+Pakistan,8,PAK
+Panama,16,PAN
+Papua New Guinea,2,PNG
+Paraguay,14,PRY
+Peru,11,PER
+Philippines,13,PHL
+Poland,2,POL
+Portugal,9,PRT
+Qatar,3,QAT
+Republic of Korea,8,KOR
+Republic of Vietnam,9,VNM
+Romania,3,ROU
+Russia,2,RUS
+Rwanda,3,RWA
+Sao Tome and Principe,2,STP
+Senegal,1,SEN
+Serbia,1,SRB
+Seychelles,3,SYC
+Sierra Leone,14,SLE
+Somalia,7,SOM
+South Sudan,1,SSD
+Spain,4,ESP
+Sri Lanka,2,LKA
+Sudan,28,SDN
+Suriname,10,SUR
+Swaziland,3,SWZ
+Syria,21,SYR
+Tajikistan,5,TJK
+Tanzania,3,TZA
+Thailand,19,THA
+Togo,15,TGO
+Trinidad and Tobago,2,TTO
+Tunisia,5,TUN
+Turkey,8,TUR
+Turkmenistan,1,TKM
+Uganda,12,UGA
+Ukraine,1,UKR
+United Arab Emirates,1,ARE
+United States of America,1,USA
+Uruguay,3,URY
+Venezuela,21,VEN
+Yemen,2,YEM
+Zambia,5,ZMB
+Zimbabwe,5,ZWE
