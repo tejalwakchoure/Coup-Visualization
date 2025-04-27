@@ -50,12 +50,15 @@
                     <h3 class="anchored" data-anchor-id="data-analysis">Data Analysis</h3>
                     <p>I pulled data on attempted coups from the Cline Center for Advanced Social Research’s <a href="https://clinecenter.illinois.edu/project/research-themes/democracy-and-development/coup-detat-project">Coup D’état Database</a> (H/T to Jeremy Singer-Vine’s <a href="https://www.data-is-plural.com/">Data Is Plural</a> newsletter!). The database contains nearly 1,000 coups, each with details such as the date, type of coup, source (military, popular revolt, etc.) and outcome (resigned, arrested, exiled, injured, killed). </p>
                     <img src="coup-database.png" class="img-fluid">
+                    <p class="small" style="color: gray;margin-top: 10px;">A snapshot of the Coup D’état Database</p>
                     <p>I pulled the dataset into Excel for analysis. It details all coups worldwide from 1945 to 2021, so I grouped all attempted coups by country and year to chart global political instability over time. Some of my initial visualizations included charting the number of coups by year. </p>
                     <img src="line-chart.png" class="img-fluid">
+                    <p class="small" style="color: gray;margin-top: 10px;">Initial explorations</p>
                     <p>However, because I wanted to zoom in on Guinea-Bisseau, I decided to process the data geographically instead. I switched to a choropleth map to keep the narrative structure consistent with the rest of the story.</p>
                     <p>I created unique keys for each attempted coup in Guinea-Bissau based on its source and outcome. Once I extracted the rows I needed, I went digging into local news coverage to confirm that these dates mapped to significant political unrest.</p>
                     <p>Perhaps the most interesting fact I found was that only one elected president in Guinea-Bissau had ever completed a five-year term in office since its independence in 1974. A lot of local coverage talked about the drastic effects of the attempted coups on the economy, so I collected GDP and military spending data from the <a href="https://data.worldbank.org/country/guinea-bissau">World Bank</a>. </p>
                     <img src="guinea-bisseau.png" class="img-fluid">
+                    <p class="small" style="color: gray;margin-top: 10px;">Contextualizing attempted coups with annual percent change in GDP</p>
                     <p>Using basic statistics, I converted the GDP numbers to year-over-year percent change. I went in with the hypothesis that both successful coups (in 2003 and 2012) would have led to a drop in GDP — but I found that the 2003 coup led to an <em>increase</em> in the annual percent change in GDP. I’d be curious to see if this is a common outcome of coups welcomed by the public.</p>
                 </section>
                 <section id="data-visualization" class="level3">
