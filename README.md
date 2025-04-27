@@ -1,6 +1,6 @@
 # Guinea-Bissau's latest coup attempt is only one of 10 since 2000
 
-Code for the data journalism project hosted [here](https://tejalwakchoure.github.io/coup/).
+Code for the data story hosted [here](https://tejalwakchoure.github.io/coup/).
 
 ## Aim
 
